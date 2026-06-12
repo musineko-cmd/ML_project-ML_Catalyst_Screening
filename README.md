@@ -79,11 +79,13 @@ metal-surface dataset for HER, documenting the substitution clearly.
 ## 5. Repository Structure
 
 ```
-her_oer_screening/
+ML_project_screening/
 ├── README.md
-├── PROMPT.md                 # agent instructions
+├── DFT_WORKFLOW.md           # VASP setup/log parsing notes
 ├── requirements.txt
 ├── config.yaml               # dataset sizes, model params, seeds
+├── run_all.py                # end-to-end HER/OER baseline pipeline
+├── generated_candidates.csv  # generated/VAE candidate pool
 ├── data/
 │   ├── raw/                  # cached API pulls (CSV)
 │   └── processed/            # feature matrices
@@ -93,32 +95,47 @@ her_oer_screening/
 │   ├── eda.py                # distributions, correlations, PCA
 │   ├── models.py             # train/eval Linear, RF, XGB, MLP + CV
 │   ├── screening.py          # volcano plots, candidate ranking
-│   └── compare.py            # HER vs OER comparison analysis
+│   ├── compare.py            # HER vs OER comparison analysis
+│   ├── her_only.py           # improved HER-only feature/model workflow
+│   ├── generate_candidates.py
+│   ├── predict_generated_candidates.py
+│   └── dft_vasp.py           # VASP input generation and log parsing
 ├── results/
 │   ├── figures/              # all plots (png, 300 dpi)
 │   ├── metrics/              # CV scores, importance tables (csv)
 │   └── rankings/             # screened candidate lists (csv)
-├── report/
-│   └── report.tex            # IEEE double-column draft
-└── run_all.py                # end-to-end driver
+├── materials_project_structures/
+│   └── rank_XX/              # lightweight MP-derived POSCAR/BULK_POSCAR files
+├── dft_runs_mp/              # DFT metadata, OSZICAR logs, parsed summaries only
+└── dft_runs_uncertainty_top10/
+    └── ...                   # DFT metadata, OSZICAR logs, parsed summaries only
 ```
 
-## 6. Deliverables
+## 6. Reproducibility Scope
 
-- Final report in **IEEE conference style** (double-column, Times New Roman
-  10 pt, single spacing), ~6–10 pages excluding references. Sections: problem
-  definition, related work, methodology, model architecture, experimental
-  setup, results & analysis, limitations & future work. No large code dumps in
-  the report.
-- Source code (this repo).
-- Experimental results (figures, metrics, rankings).
-- A presentation-video script/outline.
+This repository is intended to reproduce the code-side workflow and preserve the
+lightweight outputs used for analysis. The written report and presentation files
+are managed separately and are intentionally not included here.
 
-## 7. Constraints & Timeline
+Included artifacts:
 
-- **Two-week budget.** Week 1: data + featurization + EDA + baseline & main
-  models. Week 2: CV/tuning + HER-vs-OER comparison + volcano screening +
-  IEEE report + video outline.
+- Source code for data acquisition, featurization, modeling, screening, candidate
+  prediction, and DFT log parsing.
+- Cached raw/processed CSV data needed to rerun the ML steps without repeating
+  network pulls.
+- Result CSVs and figures under `results/`.
+- Materials Project structure files used to prepare validation slabs.
+- Lightweight DFT metadata, `OSZICAR` logs, and parsed adsorption-energy summary
+  CSVs.
+
+Excluded artifacts:
+
+- Full report/PPT/video materials.
+- Restricted or heavy VASP files such as `POTCAR`, `WAVECAR`, `CHGCAR`, `OUTCAR`,
+  `vasprun.xml`, and generated calculation input directories.
+
+## 7. Constraints
+
 - CPU-friendly. No GPU required for the tabular models. Keep dataset bounded.
 - Reproducible: fixed random seeds, `config.yaml`, `requirements.txt`.
 
@@ -130,6 +147,22 @@ python run_all.py            # runs acquisition → featurize → models → scr
 ```
 
 Outputs land in `results/`. Edit `config.yaml` to change dataset size or models.
+
+For the improved HER-only workflow and generated-candidate prediction, use:
+
+```bash
+python src/her_only.py
+python src/predict_generated_candidates.py \
+  --input generated_candidates.csv \
+  --predictions results/metrics/generated_candidates_extratrees_predictions_updated_features.csv
+```
+
+For DFT log parsing after VASP calculations finish:
+
+```bash
+python src/dft_vasp.py summarize --outdir dft_runs_mp
+python src/dft_vasp.py summarize --outdir dft_runs_uncertainty_top10
+```
 
 ## DFT Validation Artifacts
 
