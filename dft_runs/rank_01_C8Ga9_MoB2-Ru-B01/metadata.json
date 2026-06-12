@@ -1,0 +1,14 @@
+{
+  "rank": 1,
+  "candidate_id": "C8Ga9|MoB2-Ru-B01|001|{\"H\": \"site3\"}",
+  "formula": "C8Ga9",
+  "surface": "MoB2-Ru-B01",
+  "facet": "001",
+  "site": "site3",
+  "pred_dg_h": 0.0084440922141618,
+  "case_dir": "dft_runs/rank_01_C8Ga9_MoB2-Ru-B01",
+  "structure_source": "prototype_from_surface_composition",
+  "surface_formula_used_for_prototype": "MoB2Ru",
+  "clean_atoms": 144,
+  "h_ads_atoms": 145
+}

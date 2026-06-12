@@ -1,0 +1,20 @@
+{
+  "formula_pretty": "InHg",
+  "formula_anonymous": "AB",
+  "chemsys": "Hg-In",
+  "symmetry": {
+    "crystal_system": "Trigonal",
+    "symbol": "R-3m",
+    "hall": null,
+    "number": 166,
+    "point_group": "-3m",
+    "symprec": 0.1,
+    "angle_tolerance": 5.0,
+    "version": "2.5.0"
+  },
+  "material_id": "mp-20132",
+  "formation_energy_per_atom": -0.010396108750001002,
+  "energy_above_hull": 0.0,
+  "is_stable": true,
+  "band_gap": 0.0
+}

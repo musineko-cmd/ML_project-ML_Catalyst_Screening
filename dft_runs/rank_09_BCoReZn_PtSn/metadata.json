@@ -1,0 +1,14 @@
+{
+  "rank": 9,
+  "candidate_id": "BCoReZn|PtSn|101|{\"H\": \"top|A\"}",
+  "formula": "BCoReZn",
+  "surface": "PtSn",
+  "facet": "101",
+  "site": "top|A",
+  "pred_dg_h": 0.098723174277221,
+  "case_dir": "dft_runs/rank_09_BCoReZn_PtSn",
+  "structure_source": "prototype_from_surface_composition",
+  "surface_formula_used_for_prototype": "PtSn",
+  "clean_atoms": 144,
+  "h_ads_atoms": 145
+}

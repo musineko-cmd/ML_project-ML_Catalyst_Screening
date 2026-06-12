@@ -1,0 +1,14 @@
+{
+  "rank": 9,
+  "candidate_id": "Ga4Pt6Ti5Y3|MoRe|101|{\"H\": \"hollow|A_A_B|FCC\"}",
+  "formula": "Ga4Pt6Ti5Y3",
+  "surface": "MoRe",
+  "facet": "101",
+  "site": "hollow|A_A_B|FCC",
+  "pred_dg_h": null,
+  "case_dir": "/home/musineko/ML_project_screening/dft_runs_uncertainty_top10/rank_09_Ga4Pt6Ti5Y3_MoRe",
+  "structure_source": "prototype_from_surface_composition",
+  "surface_formula_used_for_prototype": "MoRe",
+  "clean_atoms": 144,
+  "h_ads_atoms": 145
+}

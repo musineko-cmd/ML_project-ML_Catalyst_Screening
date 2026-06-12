@@ -1,0 +1,48 @@
+random_seed: 42
+
+paths:
+  raw_dir: data/raw
+  processed_dir: data/processed
+  figures_dir: results/figures
+  metrics_dir: results/metrics
+  rankings_dir: results/rankings
+  comparison_summary: results/comparison_summary.md
+
+data:
+  graphql_endpoint: http://api.catalysis-hub.org/graphql
+  page_size: 500
+  her_row_cap: 1200
+  oer_row_cap: 20000
+  max_scan_rows: 50000
+  min_her_rows: 80
+  min_oer_groups: 30
+  request_timeout: 20
+  request_retries: 3
+  fallback_rows: 240
+
+features:
+  use_matminer_if_available: true
+  correlation_plot_top_n: 14
+  pca_max_features: 80
+
+models:
+  cv_folds: 5
+  test_size_for_plots: 0.2
+  n_jobs: 2
+  max_samples_per_target: 700
+  feature_selection_top_n: 60
+  rf_grid:
+    n_estimators: [40]
+    max_depth: [6, null]
+    min_samples_leaf: [2]
+  xgb_grid:
+    n_estimators: [40]
+    max_depth: [3]
+    learning_rate: [0.08, 0.12]
+  mlp:
+    hidden_layer_sizes: [64, 32]
+    max_iter: 250
+    alpha: 0.001
+
+screening:
+  top_n: 25

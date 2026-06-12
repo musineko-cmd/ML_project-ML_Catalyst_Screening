@@ -1,0 +1,14 @@
+{
+  "rank": 5,
+  "candidate_id": "B5Mo2|In3Zn|111|{\"H\": \"hollow|A_A_A|FCC\"}",
+  "formula": "B5Mo2",
+  "surface": "In3Zn",
+  "facet": "111",
+  "site": "hollow|A_A_A|FCC",
+  "pred_dg_h": -0.0803832050368834,
+  "case_dir": "dft_runs/rank_05_B5Mo2_In3Zn",
+  "structure_source": "prototype_from_surface_composition",
+  "surface_formula_used_for_prototype": "In3Zn",
+  "clean_atoms": 144,
+  "h_ads_atoms": 145
+}

@@ -1,0 +1,14 @@
+{
+  "rank": 7,
+  "candidate_id": "B17Mo7|MoB2-Nb-B00|001|{\"H\": \"site4\"}",
+  "formula": "B17Mo7",
+  "surface": "MoB2-Nb-B00",
+  "facet": "001",
+  "site": "site4",
+  "pred_dg_h": -0.0977526068609765,
+  "case_dir": "dft_runs_mp/rank_07_B17Mo7_MoB2-Nb-B00",
+  "structure_source": "materials_project_structures/rank_07/POSCAR",
+  "surface_formula_used_for_prototype": "MoB2Nb",
+  "clean_atoms": 96,
+  "h_ads_atoms": 97
+}

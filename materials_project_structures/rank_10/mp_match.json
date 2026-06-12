@@ -1,0 +1,20 @@
+{
+  "formula_pretty": "Ga2Cu",
+  "formula_anonymous": "AB2",
+  "chemsys": "Cu-Ga",
+  "symmetry": {
+    "crystal_system": "Tetragonal",
+    "symbol": "P4/mmm",
+    "hall": null,
+    "number": 123,
+    "point_group": "4/mmm",
+    "symprec": 0.1,
+    "angle_tolerance": 5.0,
+    "version": "2.5.0"
+  },
+  "material_id": "mp-11359",
+  "formation_energy_per_atom": -0.080186346666666,
+  "energy_above_hull": 0.0,
+  "is_stable": true,
+  "band_gap": 0.0
+}

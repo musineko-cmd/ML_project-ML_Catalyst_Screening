@@ -1,0 +1,14 @@
+{
+  "rank": 10,
+  "candidate_id": "B9C5Cr4H3|CuGa|101|{\"H\": \"bridge|A_A|B\"}",
+  "formula": "B9C5Cr4H3",
+  "surface": "CuGa",
+  "facet": "101",
+  "site": "bridge|A_A|B",
+  "pred_dg_h": -0.1065433768817292,
+  "case_dir": "dft_runs_mp/rank_10_B9C5Cr4H3_CuGa",
+  "structure_source": "materials_project_structures/rank_10/POSCAR",
+  "surface_formula_used_for_prototype": "CuGa",
+  "clean_atoms": 48,
+  "h_ads_atoms": 49
+}

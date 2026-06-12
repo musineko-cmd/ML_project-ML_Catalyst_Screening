@@ -1,0 +1,20 @@
+{
+  "formula_pretty": "RuAu3",
+  "formula_anonymous": "AB3",
+  "chemsys": "Au-Ru",
+  "symmetry": {
+    "crystal_system": "Tetragonal",
+    "symbol": "I4/mmm",
+    "hall": null,
+    "number": 139,
+    "point_group": "4/mmm",
+    "symprec": 0.1,
+    "angle_tolerance": 5.0,
+    "version": "2.5.0"
+  },
+  "material_id": "mp-974364",
+  "formation_energy_per_atom": 0.365786297500001,
+  "energy_above_hull": 0.365786297500001,
+  "is_stable": false,
+  "band_gap": 0.0
+}

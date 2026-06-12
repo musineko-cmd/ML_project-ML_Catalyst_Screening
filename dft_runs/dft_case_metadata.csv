@@ -1,0 +1,11 @@
+rank,candidate_id,formula,surface,facet,site,pred_dg_h,case_dir,structure_source,surface_formula_used_for_prototype,clean_atoms,h_ads_atoms
+1,"C8Ga9|MoB2-Ru-B01|001|{""H"": ""site3""}",C8Ga9,MoB2-Ru-B01,001,site3,0.0084440922141618,dft_runs/rank_01_C8Ga9_MoB2-Ru-B01,prototype_from_surface_composition,MoB2Ru,144,145
+2,"BPdZn2|MoB2-Fe-B01|001|{""H"": ""site5""}",BPdZn2,MoB2-Fe-B01,001,site5,0.0206674796300456,dft_runs/rank_02_BPdZn2_MoB2-Fe-B01,prototype_from_surface_composition,MoB2Fe,144,145
+3,"Pb10Pt11|HgIn|101|{""H"": ""top-tilt|B""}",Pb10Pt11,HgIn,101,top-tilt|B,0.0589336830553726,dft_runs/rank_03_Pb10Pt11_HgIn,prototype_from_surface_composition,HgIn,144,145
+4,"B10Zn7|Au3Ru|111|{""H"": ""hollow|A_A_B|HCP""}",B10Zn7,Au3Ru,111,hollow|A_A_B|HCP,-0.0600859044870559,dft_runs/rank_04_B10Zn7_Au3Ru,prototype_from_surface_composition,Au3Ru,144,145
+5,"B5Mo2|In3Zn|111|{""H"": ""hollow|A_A_A|FCC""}",B5Mo2,In3Zn,111,hollow|A_A_A|FCC,-0.0803832050368834,dft_runs/rank_05_B5Mo2_In3Zn,prototype_from_surface_composition,In3Zn,144,145
+6,"BInMoSn|Re3Ta|111|{""H"": ""hollow|A_A_A|FCC""}",BInMoSn,Re3Ta,111,hollow|A_A_A|FCC,-0.0925693940658854,dft_runs/rank_06_BInMoSn_Re3Ta,prototype_from_surface_composition,Re3Ta,144,145
+7,"B17Mo7|MoB2-Nb-B00|001|{""H"": ""site4""}",B17Mo7,MoB2-Nb-B00,001,site4,-0.0977526068609765,dft_runs/rank_07_B17Mo7_MoB2-Nb-B00,prototype_from_surface_composition,MoB2Nb,144,145
+8,"B6Ga|NbV|101|{""H"": ""hollow|A_B_B|HCP""}",B6Ga,NbV,101,hollow|A_B_B|HCP,-0.0985367971590851,dft_runs/rank_08_B6Ga_NbV,prototype_from_surface_composition,NbV,144,145
+9,"BCoReZn|PtSn|101|{""H"": ""top|A""}",BCoReZn,PtSn,101,top|A,0.098723174277221,dft_runs/rank_09_BCoReZn_PtSn,prototype_from_surface_composition,PtSn,144,145
+10,"B9C5Cr4H3|CuGa|101|{""H"": ""bridge|A_A|B""}",B9C5Cr4H3,CuGa,101,bridge|A_A|B,-0.1065433768817292,dft_runs/rank_10_B9C5Cr4H3_CuGa,prototype_from_surface_composition,CuGa,144,145

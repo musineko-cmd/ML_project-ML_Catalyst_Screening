@@ -1,0 +1,14 @@
+{
+  "rank": 2,
+  "candidate_id": "BPdZn2|MoB2-Fe-B01|001|{\"H\": \"site5\"}",
+  "formula": "BPdZn2",
+  "surface": "MoB2-Fe-B01",
+  "facet": "001",
+  "site": "site5",
+  "pred_dg_h": 0.0206674796300456,
+  "case_dir": "dft_runs_mp/rank_02_BPdZn2_MoB2-Fe-B01",
+  "structure_source": "materials_project_structures/rank_02/POSCAR",
+  "surface_formula_used_for_prototype": "MoB2Fe",
+  "clean_atoms": 96,
+  "h_ads_atoms": 97
+}

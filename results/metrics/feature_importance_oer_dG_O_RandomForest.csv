@@ -1,0 +1,61 @@
+feature,importance
+matminer_MagpieData minimum MendeleevNumber,0.11273047067668127
+matminer_MagpieData maximum NUnfilled,0.11208838929163394
+matminer_MagpieData mean MendeleevNumber,0.10861673347400738
+matminer_MagpieData range NValence,0.1056592906121588
+matminer_MagpieData maximum CovalentRadius,0.060789280621548224
+matminer_MagpieData range NdUnfilled,0.06070721557341278
+d_max,0.059583222578255504
+matminer_MagpieData maximum NdUnfilled,0.048967343464871235
+valence_max,0.030834761648808596
+matminer_MagpieData mean MeltingT,0.025432959770865488
+Z_std,0.022047239549122927
+matminer_MagpieData mean CovalentRadius,0.017634760416411203
+matminer_MagpieData maximum GSvolume_pa,0.01715898105049359
+matminer_MagpieData maximum NdValence,0.017136784626398092
+radius_mean,0.017012466640921042
+matminer_MagpieData maximum MendeleevNumber,0.015238486277085128
+matminer_MagpieData avg_dev MendeleevNumber,0.014912023386099593
+matminer_MagpieData range NdValence,0.014200799726608242
+matminer_MagpieData avg_dev AtomicWeight,0.013791146150873323
+matminer_MagpieData range Number,0.013480918131570482
+matminer_MagpieData range MendeleevNumber,0.013286778499644764
+radius_max,0.011297693644868285
+matminer_MagpieData avg_dev CovalentRadius,0.010413694095298085
+matminer_MagpieData avg_dev MeltingT,0.010199766021936283
+matminer_MagpieData mean AtomicWeight,0.01016634837710767
+matminer_MagpieData range AtomicWeight,0.006862428404650747
+matminer_MagpieData avg_dev SpaceGroupNumber,0.0062430824894841915
+radius_std,0.005896212649133349
+matminer_MagpieData mean Column,0.005753999263062868
+matminer_MagpieData mean SpaceGroupNumber,0.0037687779878376295
+group_mean,0.0035017911818567326
+group_min,0.0030322524694531726
+matminer_MagpieData maximum SpaceGroupNumber,0.002966004441863847
+Z_max,0.0028947387611350265
+matminer_MagpieData range CovalentRadius,0.002547953340392715
+matminer_MagpieData avg_dev Column,0.002468262131318579
+matminer_MagpieData maximum Number,0.001970860168688522
+group_std,0.0011195131637951221
+matminer_MagpieData range SpaceGroupNumber,0.0011153715104778366
+matminer_MagpieData maximum AtomicWeight,0.0008665415320450733
+total_atoms,0.0007992614364855264
+matminer_MagpieData minimum SpaceGroupNumber,0.0007068923400892783
+valence_min,0.0006488570071485612
+matminer_MagpieData range NUnfilled,0.0005341854920928073
+matminer_MagpieData maximum NValence,0.0005310233874871349
+matminer_MagpieData minimum Column,0.0005226239378252625
+matminer_MagpieData range NfValence,0.0005129974811276484
+matminer_MagpieData minimum CovalentRadius,0.0004379866052237944
+radius_min,0.00029925549228599203
+matminer_MagpieData range GSvolume_pa,0.0002695004155163007
+matminer_MagpieData minimum Number,0.00021801523695352031
+matminer_MagpieData range Column,8.747282661158775e-05
+matminer_MagpieData minimum AtomicWeight,1.6897208848830575e-05
+matminer_MagpieData range MeltingT,1.2477355047105017e-05
+matminer_MagpieData minimum MeltingT,7.2099753793509776e-06
+matminer_MagpieData mode MeltingT,0.0
+matminer_MagpieData mode CovalentRadius,0.0
+matminer_MagpieData maximum NfValence,0.0
+Z_min,0.0
+matminer_MagpieData mode Column,0.0

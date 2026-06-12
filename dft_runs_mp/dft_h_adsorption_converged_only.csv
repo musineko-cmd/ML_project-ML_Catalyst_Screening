@@ -1,0 +1,4 @@
+rank,candidate_id,ml_pred_dG_H_eV,clean_converged,h_ads_converged,h2_converged,clean_finished,h_ads_finished,h2_finished,clean_last_ionic_step,h_ads_last_ionic_step,E_clean_eV,E_H_ads_eV,E_H2_eV,dE_H_eV,dG_H_eV,reliable_dG_H,status
+1,"C8Ga9|MoB2-Ru-B01|001|{""H"": ""site3""}",0.0084440922141618,True,True,True,True,True,True,27.0,65.0,-777.74240565,-782.00144436,-6.75884249,-0.879617465000027,-0.639617465000027,True,complete_converged
+4,"B10Zn7|Au3Ru|111|{""H"": ""hollow|A_A_B|HCP""}",-0.0600859044870559,True,True,True,True,True,True,48.0,68.0,-530.17793591,-533.7689602,-6.75884249,-0.21160304500006388,0.028396954999936108,True,complete_converged
+6,"BInMoSn|Re3Ta|111|{""H"": ""hollow|A_A_A|FCC""}",-0.0925693940658854,True,True,True,True,True,True,28.0,42.0,-556.17046534,-560.19819243,-6.75884249,-0.6483058449999848,-0.4083058449999848,True,complete_converged

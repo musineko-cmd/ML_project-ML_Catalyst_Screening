@@ -1,0 +1,14 @@
+{
+  "rank": 4,
+  "candidate_id": "B15PdRe|MoB2-Ru-B02|001|{\"H\": \"site6\"}",
+  "formula": "B15PdRe",
+  "surface": "MoB2-Ru-B02",
+  "facet": "001",
+  "site": "site6",
+  "pred_dg_h": null,
+  "case_dir": "/home/musineko/ML_project_screening/dft_runs_uncertainty_top10/rank_04_B15PdRe_MoB2-Ru-B02",
+  "structure_source": "prototype_from_surface_composition",
+  "surface_formula_used_for_prototype": "MoB2Ru",
+  "clean_atoms": 144,
+  "h_ads_atoms": 145
+}

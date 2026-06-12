@@ -1,0 +1,2 @@
+rank,candidate_id,ml_pred_dG_H_eV,clean_converged,h_ads_converged,h2_converged,clean_finished,h_ads_finished,h2_finished,clean_last_ionic_step,h_ads_last_ionic_step,E_clean_eV,E_H_ads_eV,E_H2_eV,dE_H_eV,dG_H_eV,reliable_dG_H,status
+1,"B10Zn7|Au3Ru|111|{""H"": ""hollow|A_A_B|HCP""}",0.0248562063457442,True,True,True,True,True,True,9.0,55.0,-568.54101214,-571.89779508,-6.75884249,0.02263830499998365,0.26263830499998364,True,complete_converged

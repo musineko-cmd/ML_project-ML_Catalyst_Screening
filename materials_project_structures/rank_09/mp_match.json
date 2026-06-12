@@ -1,0 +1,20 @@
+{
+  "formula_pretty": "SnPt",
+  "formula_anonymous": "AB",
+  "chemsys": "Pt-Sn",
+  "symmetry": {
+    "crystal_system": "Hexagonal",
+    "symbol": "P6_3/mmc",
+    "hall": null,
+    "number": 194,
+    "point_group": "6/mmm",
+    "symprec": 0.1,
+    "angle_tolerance": 5.0,
+    "version": "2.5.0"
+  },
+  "material_id": "mp-19856",
+  "formation_energy_per_atom": -0.6177887774999961,
+  "energy_above_hull": 0.0,
+  "is_stable": true,
+  "band_gap": 0.0
+}

@@ -1,0 +1,125 @@
+rank,query_type,query_term,keyword,crossref_total,top_year,top_title,top_doi
+1,formula,C8Ga9,hydrogen adsorption,737292,1965.0,Co-adsorption of hydrogen and potassium on tungsten. Adsorption of hydrogen on potassium,10.1016/0042-207x(65)92189-5
+1,formula,C8Ga9,H adsorption,235198,1996.0,Upcoming adsorption meetings,10.1007/bf00127048
+1,formula,C8Ga9,HER,66595,,HER Communication,10.21428/aab485b1
+1,formula,C8Ga9,Delta G_H,109839,1991.0,Exact results for the nonlinear diffusion equations delta u/ delta t= delta / delta x(u<sup>-4/3</sup>delta u/ delta x) and delta u/ delta t- delta / delta x(u<sup>-2/3</sup>delta u/ delta x),10.1088/0305-4470/24/24/009
+1,surface,MoB2-Ru-B01,hydrogen adsorption,797379,,Constructing Transition Metal Single-Atom-Modified MoB2: Extraordinary Electrocatalytic Hydrogen Evolution and Mechanism Investigation,10.1021/acsenergylett.3c02100.s001
+1,surface,MoB2-Ru-B01,H adsorption,298070,,Adsorption and Hydrogenation of Acrolein on Ru(001),10.1021/acs.jpcc.6b12678.s001
+1,surface,MoB2-Ru-B01,HER,130119,2025.0,Revisiting the activity of Ru-hcp(001) and Ru-fcc(111) for alkaline HER: a DFT study,10.2139/ssrn.5640113
+1,surface,MoB2-Ru-B01,Delta G_H,173432,,"DIN EN ISO 105-B01:2014-12, Textilien_- Farbechtheitsprüfungen_- Teil_B01: Farbechtheit gegen Licht: Tageslicht (ISO_105-B01:2014); Deutsche Fassung EN_ISO_105-B01:2014",10.31030/2248427
+1,formula_surface,C8Ga9 MoB2-Ru-B01,hydrogen adsorption,797379,,Constructing Transition Metal Single-Atom-Modified MoB2: Extraordinary Electrocatalytic Hydrogen Evolution and Mechanism Investigation,10.1021/acsenergylett.3c02100.s001
+1,formula_surface,C8Ga9 MoB2-Ru-B01,H adsorption,298070,,Adsorption and Hydrogenation of Acrolein on Ru(001),10.1021/acs.jpcc.6b12678.s001
+1,formula_surface,C8Ga9 MoB2-Ru-B01,HER,130119,2025.0,Revisiting the activity of Ru-hcp(001) and Ru-fcc(111) for alkaline HER: a DFT study,10.2139/ssrn.5640113
+1,formula_surface,C8Ga9 MoB2-Ru-B01,Delta G_H,173432,,"DIN EN ISO 105-B01:2014-12, Textilien_- Farbechtheitsprüfungen_- Teil_B01: Farbechtheit gegen Licht: Tageslicht (ISO_105-B01:2014); Deutsche Fassung EN_ISO_105-B01:2014",10.31030/2248427
+2,formula,BPdZn2,hydrogen adsorption,737292,1965.0,Co-adsorption of hydrogen and potassium on tungsten. Adsorption of hydrogen on potassium,10.1016/0042-207x(65)92189-5
+2,formula,BPdZn2,H adsorption,235198,1974.0,5. Experimentelle Probleme der Adsorption,10.1515/9783110842395.111
+2,formula,BPdZn2,HER,66595,,HER Communication,10.21428/aab485b1
+2,formula,BPdZn2,Delta G_H,109839,1991.0,Exact results for the nonlinear diffusion equations delta u/ delta t= delta / delta x(u<sup>-4/3</sup>delta u/ delta x) and delta u/ delta t- delta / delta x(u<sup>-2/3</sup>delta u/ delta x),10.1088/0305-4470/24/24/009
+2,surface,MoB2-Fe-B01,hydrogen adsorption,998699,,Constructing Transition Metal Single-Atom-Modified MoB2: Extraordinary Electrocatalytic Hydrogen Evolution and Mechanism Investigation,10.1021/acsenergylett.3c02100.s001
+2,surface,MoB2-Fe-B01,H adsorption,501596,,"DIN EN ISO 105-B01:2014-12, Textilien_- Farbechtheitsprüfungen_- Teil_B01: Farbechtheit gegen Licht: Tageslicht (ISO_105-B01:2014); Deutsche Fassung EN_ISO_105-B01:2014",10.31030/2248427
+2,surface,MoB2-Fe-B01,HER,336833,,"DIN EN ISO 105-B01:2014-12, Textilien_- Farbechtheitsprüfungen_- Teil_B01: Farbechtheit gegen Licht: Tageslicht (ISO_105-B01:2014); Deutsche Fassung EN_ISO_105-B01:2014",10.31030/2248427
+2,surface,MoB2-Fe-B01,Delta G_H,380069,,"DIN EN ISO 105-B01:2014-12, Textilien_- Farbechtheitsprüfungen_- Teil_B01: Farbechtheit gegen Licht: Tageslicht (ISO_105-B01:2014); Deutsche Fassung EN_ISO_105-B01:2014",10.31030/2248427
+2,formula_surface,BPdZn2 MoB2-Fe-B01,hydrogen adsorption,998699,,Constructing Transition Metal Single-Atom-Modified MoB2: Extraordinary Electrocatalytic Hydrogen Evolution and Mechanism Investigation,10.1021/acsenergylett.3c02100.s001
+2,formula_surface,BPdZn2 MoB2-Fe-B01,H adsorption,501596,,"DIN EN ISO 105-B01:2014-12, Textilien_- Farbechtheitsprüfungen_- Teil_B01: Farbechtheit gegen Licht: Tageslicht (ISO_105-B01:2014); Deutsche Fassung EN_ISO_105-B01:2014",10.31030/2248427
+2,formula_surface,BPdZn2 MoB2-Fe-B01,HER,336833,,"DIN EN ISO 105-B01:2014-12, Textilien_- Farbechtheitsprüfungen_- Teil_B01: Farbechtheit gegen Licht: Tageslicht (ISO_105-B01:2014); Deutsche Fassung EN_ISO_105-B01:2014",10.31030/2248427
+2,formula_surface,BPdZn2 MoB2-Fe-B01,Delta G_H,380069,,"DIN EN ISO 105-B01:2014-12, Textilien_- Farbechtheitsprüfungen_- Teil_B01: Farbechtheit gegen Licht: Tageslicht (ISO_105-B01:2014); Deutsche Fassung EN_ISO_105-B01:2014",10.31030/2248427
+3,formula,Pb10Pt11,hydrogen adsorption,737292,1965.0,Co-adsorption of hydrogen and potassium on tungsten. Adsorption of hydrogen on potassium,10.1016/0042-207x(65)92189-5
+3,formula,Pb10Pt11,H adsorption,235198,1996.0,Upcoming adsorption meetings,10.1007/bf00127048
+3,formula,Pb10Pt11,HER,66595,,HER Communication,10.21428/aab485b1
+3,formula,Pb10Pt11,Delta G_H,109839,1991.0,Exact results for the nonlinear diffusion equations delta u/ delta t= delta / delta x(u<sup>-4/3</sup>delta u/ delta x) and delta u/ delta t- delta / delta x(u<sup>-2/3</sup>delta u/ delta x),10.1088/0305-4470/24/24/009
+3,surface,HgIn,hydrogen adsorption,737324,,In Situ Xray Scattering Studies of the Interface Structure of Liquid HgIn Electrodes in Aqueous Solution,10.1021/acs.jpcc.5c03466.s001
+3,surface,HgIn,H adsorption,235230,,In Situ Xray Scattering Studies of the Interface Structure of Liquid HgIn Electrodes in Aqueous Solution,10.1021/acs.jpcc.5c03466.s001
+3,surface,HgIn,HER,66627,,In Situ Xray Scattering Studies of the Interface Structure of Liquid HgIn Electrodes in Aqueous Solution,10.1021/acs.jpcc.5c03466.s001
+3,surface,HgIn,Delta G_H,109871,,In Situ Xray Scattering Studies of the Interface Structure of Liquid HgIn Electrodes in Aqueous Solution,10.1021/acs.jpcc.5c03466.s001
+3,formula_surface,Pb10Pt11 HgIn,hydrogen adsorption,737324,,In Situ Xray Scattering Studies of the Interface Structure of Liquid HgIn Electrodes in Aqueous Solution,10.1021/acs.jpcc.5c03466.s001
+3,formula_surface,Pb10Pt11 HgIn,H adsorption,235230,,In Situ Xray Scattering Studies of the Interface Structure of Liquid HgIn Electrodes in Aqueous Solution,10.1021/acs.jpcc.5c03466.s001
+3,formula_surface,Pb10Pt11 HgIn,HER,66627,,In Situ Xray Scattering Studies of the Interface Structure of Liquid HgIn Electrodes in Aqueous Solution,10.1021/acs.jpcc.5c03466.s001
+3,formula_surface,Pb10Pt11 HgIn,Delta G_H,109871,,In Situ Xray Scattering Studies of the Interface Structure of Liquid HgIn Electrodes in Aqueous Solution,10.1021/acs.jpcc.5c03466.s001
+4,formula,B10Zn7,hydrogen adsorption,737292,1965.0,Co-adsorption of hydrogen and potassium on tungsten. Adsorption of hydrogen on potassium,10.1016/0042-207x(65)92189-5
+4,formula,B10Zn7,H adsorption,235198,1996.0,Upcoming adsorption meetings,10.1007/bf00127048
+4,formula,B10Zn7,HER,66595,,HER Communication,10.21428/aab485b1
+4,formula,B10Zn7,Delta G_H,109839,1991.0,Exact results for the nonlinear diffusion equations delta u/ delta t= delta / delta x(u<sup>-4/3</sup>delta u/ delta x) and delta u/ delta t- delta / delta x(u<sup>-2/3</sup>delta u/ delta x),10.1088/0305-4470/24/24/009
+4,surface,Au3Ru,hydrogen adsorption,737292,1965.0,Co-adsorption of hydrogen and potassium on tungsten. Adsorption of hydrogen on potassium,10.1016/0042-207x(65)92189-5
+4,surface,Au3Ru,H adsorption,235198,1974.0,5. Experimentelle Probleme der Adsorption,10.1515/9783110842395.111
+4,surface,Au3Ru,HER,66595,,HER Communication,10.21428/aab485b1
+4,surface,Au3Ru,Delta G_H,109839,1991.0,Exact results for the nonlinear diffusion equations delta u/ delta t= delta / delta x(u<sup>-4/3</sup>delta u/ delta x) and delta u/ delta t- delta / delta x(u<sup>-2/3</sup>delta u/ delta x),10.1088/0305-4470/24/24/009
+4,formula_surface,B10Zn7 Au3Ru,hydrogen adsorption,737292,1965.0,Co-adsorption of hydrogen and potassium on tungsten. Adsorption of hydrogen on potassium,10.1016/0042-207x(65)92189-5
+4,formula_surface,B10Zn7 Au3Ru,H adsorption,235198,1996.0,Upcoming adsorption meetings,10.1007/bf00127048
+4,formula_surface,B10Zn7 Au3Ru,HER,66595,,HER Communication,10.21428/aab485b1
+4,formula_surface,B10Zn7 Au3Ru,Delta G_H,109839,1991.0,Exact results for the nonlinear diffusion equations delta u/ delta t= delta / delta x(u<sup>-4/3</sup>delta u/ delta x) and delta u/ delta t- delta / delta x(u<sup>-2/3</sup>delta u/ delta x),10.1088/0305-4470/24/24/009
+5,formula,B5Mo2,hydrogen adsorption,737292,1965.0,Co-adsorption of hydrogen and potassium on tungsten. Adsorption of hydrogen on potassium,10.1016/0042-207x(65)92189-5
+5,formula,B5Mo2,H adsorption,235198,1974.0,5. Experimentelle Probleme der Adsorption,10.1515/9783110842395.111
+5,formula,B5Mo2,HER,66595,,HER Communication,10.21428/aab485b1
+5,formula,B5Mo2,Delta G_H,109839,1991.0,Exact results for the nonlinear diffusion equations delta u/ delta t= delta / delta x(u<sup>-4/3</sup>delta u/ delta x) and delta u/ delta t- delta / delta x(u<sup>-2/3</sup>delta u/ delta x),10.1088/0305-4470/24/24/009
+5,surface,In3Zn,hydrogen adsorption,737292,1965.0,Co-adsorption of hydrogen and potassium on tungsten. Adsorption of hydrogen on potassium,10.1016/0042-207x(65)92189-5
+5,surface,In3Zn,H adsorption,235198,1996.0,Upcoming adsorption meetings,10.1007/bf00127048
+5,surface,In3Zn,HER,66595,,HER Communication,10.21428/aab485b1
+5,surface,In3Zn,Delta G_H,109839,1991.0,Exact results for the nonlinear diffusion equations delta u/ delta t= delta / delta x(u<sup>-4/3</sup>delta u/ delta x) and delta u/ delta t- delta / delta x(u<sup>-2/3</sup>delta u/ delta x),10.1088/0305-4470/24/24/009
+5,formula_surface,B5Mo2 In3Zn,hydrogen adsorption,737292,1965.0,Co-adsorption of hydrogen and potassium on tungsten. Adsorption of hydrogen on potassium,10.1016/0042-207x(65)92189-5
+5,formula_surface,B5Mo2 In3Zn,H adsorption,235198,1974.0,5. Experimentelle Probleme der Adsorption,10.1515/9783110842395.111
+5,formula_surface,B5Mo2 In3Zn,HER,66595,,HER Communication,10.21428/aab485b1
+5,formula_surface,B5Mo2 In3Zn,Delta G_H,109839,1991.0,Exact results for the nonlinear diffusion equations delta u/ delta t= delta / delta x(u<sup>-4/3</sup>delta u/ delta x) and delta u/ delta t- delta / delta x(u<sup>-2/3</sup>delta u/ delta x),10.1088/0305-4470/24/24/009
+6,formula,BInMoSn,hydrogen adsorption,737292,1965.0,Co-adsorption of hydrogen and potassium on tungsten. Adsorption of hydrogen on potassium,10.1016/0042-207x(65)92189-5
+6,formula,BInMoSn,H adsorption,235198,1996.0,Upcoming adsorption meetings,10.1007/bf00127048
+6,formula,BInMoSn,HER,66595,,HER Communication,10.21428/aab485b1
+6,formula,BInMoSn,Delta G_H,109839,1991.0,Exact results for the nonlinear diffusion equations delta u/ delta t= delta / delta x(u<sup>-4/3</sup>delta u/ delta x) and delta u/ delta t- delta / delta x(u<sup>-2/3</sup>delta u/ delta x),10.1088/0305-4470/24/24/009
+6,surface,Re3Ta,hydrogen adsorption,737292,1965.0,Co-adsorption of hydrogen and potassium on tungsten. Adsorption of hydrogen on potassium,10.1016/0042-207x(65)92189-5
+6,surface,Re3Ta,H adsorption,235198,1996.0,Upcoming adsorption meetings,10.1007/bf00127048
+6,surface,Re3Ta,HER,66595,,HER Communication,10.21428/aab485b1
+6,surface,Re3Ta,Delta G_H,109839,1991.0,Exact results for the nonlinear diffusion equations delta u/ delta t= delta / delta x(u<sup>-4/3</sup>delta u/ delta x) and delta u/ delta t- delta / delta x(u<sup>-2/3</sup>delta u/ delta x),10.1088/0305-4470/24/24/009
+6,formula_surface,BInMoSn Re3Ta,hydrogen adsorption,737292,1965.0,Co-adsorption of hydrogen and potassium on tungsten. Adsorption of hydrogen on potassium,10.1016/0042-207x(65)92189-5
+6,formula_surface,BInMoSn Re3Ta,H adsorption,235198,1996.0,Upcoming adsorption meetings,10.1007/bf00127048
+6,formula_surface,BInMoSn Re3Ta,HER,66595,,HER Communication,10.21428/aab485b1
+6,formula_surface,BInMoSn Re3Ta,Delta G_H,109839,1991.0,Exact results for the nonlinear diffusion equations delta u/ delta t= delta / delta x(u<sup>-4/3</sup>delta u/ delta x) and delta u/ delta t- delta / delta x(u<sup>-2/3</sup>delta u/ delta x),10.1088/0305-4470/24/24/009
+7,formula,B17Mo7,hydrogen adsorption,737292,1965.0,Co-adsorption of hydrogen and potassium on tungsten. Adsorption of hydrogen on potassium,10.1016/0042-207x(65)92189-5
+7,formula,B17Mo7,H adsorption,235198,1996.0,Upcoming adsorption meetings,10.1007/bf00127048
+7,formula,B17Mo7,HER,66595,,HER Communication,10.21428/aab485b1
+7,formula,B17Mo7,Delta G_H,109839,1991.0,Exact results for the nonlinear diffusion equations delta u/ delta t= delta / delta x(u<sup>-4/3</sup>delta u/ delta x) and delta u/ delta t- delta / delta x(u<sup>-2/3</sup>delta u/ delta x),10.1088/0305-4470/24/24/009
+7,surface,MoB2-Nb-B00,hydrogen adsorption,791667,2022.0,,10.46936/aps-179253/60009119
+7,surface,MoB2-Nb-B00,H adsorption,290612,2022.0,,10.46936/aps-179253/60009119
+7,surface,MoB2-Nb-B00,HER,122130,2022.0,,10.46936/aps-179253/60009119
+7,surface,MoB2-Nb-B00,Delta G_H,165371,2022.0,,10.46936/aps-179253/60009119
+7,formula_surface,B17Mo7 MoB2-Nb-B00,hydrogen adsorption,791667,2022.0,,10.46936/aps-179253/60009119
+7,formula_surface,B17Mo7 MoB2-Nb-B00,H adsorption,290612,2022.0,,10.46936/aps-179253/60009119
+7,formula_surface,B17Mo7 MoB2-Nb-B00,HER,122130,2022.0,,10.46936/aps-179253/60009119
+7,formula_surface,B17Mo7 MoB2-Nb-B00,Delta G_H,165371,2022.0,,10.46936/aps-179253/60009119
+8,formula,B6Ga,hydrogen adsorption,737292,1965.0,Co-adsorption of hydrogen and potassium on tungsten. Adsorption of hydrogen on potassium,10.1016/0042-207x(65)92189-5
+8,formula,B6Ga,H adsorption,235198,1996.0,Upcoming adsorption meetings,10.1007/bf00127048
+8,formula,B6Ga,HER,66595,,HER Communication,10.21428/aab485b1
+8,formula,B6Ga,Delta G_H,109839,1991.0,Exact results for the nonlinear diffusion equations delta u/ delta t= delta / delta x(u<sup>-4/3</sup>delta u/ delta x) and delta u/ delta t- delta / delta x(u<sup>-2/3</sup>delta u/ delta x),10.1088/0305-4470/24/24/009
+8,surface,NbV,hydrogen adsorption,737369,2021.0,Active Map-Matching: Active Self-localization by VPR-to-NBV Knowledge Transfer,10.31224/osf.io/gj6ry
+8,surface,NbV,H adsorption,235275,2021.0,Active Map-Matching: Active Self-localization by VPR-to-NBV Knowledge Transfer,10.31224/osf.io/gj6ry
+8,surface,NbV,HER,66672,2021.0,Active Map-Matching: Active Self-localization by VPR-to-NBV Knowledge Transfer,10.31224/osf.io/gj6ry
+8,surface,NbV,Delta G_H,109916,2021.0,Active Map-Matching: Active Self-localization by VPR-to-NBV Knowledge Transfer,10.31224/osf.io/gj6ry
+8,formula_surface,B6Ga NbV,hydrogen adsorption,737369,2021.0,Active Map-Matching: Active Self-localization by VPR-to-NBV Knowledge Transfer,10.31224/osf.io/gj6ry
+8,formula_surface,B6Ga NbV,H adsorption,235275,2021.0,Active Map-Matching: Active Self-localization by VPR-to-NBV Knowledge Transfer,10.31224/osf.io/gj6ry
+8,formula_surface,B6Ga NbV,HER,66672,2021.0,Active Map-Matching: Active Self-localization by VPR-to-NBV Knowledge Transfer,10.31224/osf.io/gj6ry
+8,formula_surface,B6Ga NbV,Delta G_H,109916,2021.0,Active Map-Matching: Active Self-localization by VPR-to-NBV Knowledge Transfer,10.31224/osf.io/gj6ry
+9,formula,BCoReZn,hydrogen adsorption,737292,1965.0,Co-adsorption of hydrogen and potassium on tungsten. Adsorption of hydrogen on potassium,10.1016/0042-207x(65)92189-5
+9,formula,BCoReZn,H adsorption,235198,1996.0,Upcoming adsorption meetings,10.1007/bf00127048
+9,formula,BCoReZn,HER,66595,,HER Communication,10.21428/aab485b1
+9,formula,BCoReZn,Delta G_H,109839,1991.0,Exact results for the nonlinear diffusion equations delta u/ delta t= delta / delta x(u<sup>-4/3</sup>delta u/ delta x) and delta u/ delta t- delta / delta x(u<sup>-2/3</sup>delta u/ delta x),10.1088/0305-4470/24/24/009
+9,surface,PtSn,hydrogen adsorption,737827,2006.0,Hydrogen adsorption and diffusion on Pt {111} and PtSn {111},10.1039/b600250c
+9,surface,PtSn,H adsorption,235760,,Combined DRIFTS and DFT Study of CO Adsorption and Segregation Modes in PtSn Nanoalloys,10.1021/acs.jpcc.0c01296.s001
+9,surface,PtSn,HER,67164,2025.0,"Unraveling the Surface Termination and Evolution of Surface States for Electrocatalyst PtSn
+                    <sub>4</sub>
+                    in Alkaline HER",10.1021/acscatal.4c06952
+9,surface,PtSn,Delta G_H,110409,2011.0,Structure of PTS IIA-like nitrogen-regulatory protein PtsN (BTH_I0484) (ptsN),10.2210/pdb3urr/pdb
+9,formula_surface,BCoReZn PtSn,hydrogen adsorption,737827,2006.0,Hydrogen adsorption and diffusion on Pt {111} and PtSn {111},10.1039/b600250c
+9,formula_surface,BCoReZn PtSn,H adsorption,235760,,Combined DRIFTS and DFT Study of CO Adsorption and Segregation Modes in PtSn Nanoalloys,10.1021/acs.jpcc.0c01296.s001
+9,formula_surface,BCoReZn PtSn,HER,67164,2025.0,"Unraveling the Surface Termination and Evolution of Surface States for Electrocatalyst PtSn
+                    <sub>4</sub>
+                    in Alkaline HER",10.1021/acscatal.4c06952
+9,formula_surface,BCoReZn PtSn,Delta G_H,110409,2011.0,Structure of PTS IIA-like nitrogen-regulatory protein PtsN (BTH_I0484) (ptsN),10.2210/pdb3urr/pdb
+10,formula,B9C5Cr4H3,hydrogen adsorption,737292,1965.0,Co-adsorption of hydrogen and potassium on tungsten. Adsorption of hydrogen on potassium,10.1016/0042-207x(65)92189-5
+10,formula,B9C5Cr4H3,H adsorption,235198,1974.0,5. Experimentelle Probleme der Adsorption,10.1515/9783110842395.111
+10,formula,B9C5Cr4H3,HER,66595,,HER Communication,10.21428/aab485b1
+10,formula,B9C5Cr4H3,Delta G_H,109839,1991.0,Exact results for the nonlinear diffusion equations delta u/ delta t= delta / delta x(u<sup>-4/3</sup>delta u/ delta x) and delta u/ delta t- delta / delta x(u<sup>-2/3</sup>delta u/ delta x),10.1088/0305-4470/24/24/009
+10,surface,CuGa,hydrogen adsorption,737572,,Complex Crystal Chemistry of Yb6(CuGa)50 and Yb6(CuGa)51 Grown at Different Synthetic Conditions,10.1021/acs.cgd.8b00958.s001
+10,surface,CuGa,H adsorption,235486,,Complex Crystal Chemistry of Yb6(CuGa)50 and Yb6(CuGa)51 Grown at Different Synthetic Conditions,10.1021/acs.cgd.8b00958.s001
+10,surface,CuGa,HER,66881,,Complex Crystal Chemistry of Yb6(CuGa)50 and Yb6(CuGa)51 Grown at Different Synthetic Conditions,10.1021/acs.cgd.8b00958.s001
+10,surface,CuGa,Delta G_H,110127,,Complex Crystal Chemistry of Yb6(CuGa)50 and Yb6(CuGa)51 Grown at Different Synthetic Conditions,10.1021/acs.cgd.8b00958.s001
+10,formula_surface,B9C5Cr4H3 CuGa,hydrogen adsorption,737572,,Complex Crystal Chemistry of Yb6(CuGa)50 and Yb6(CuGa)51 Grown at Different Synthetic Conditions,10.1021/acs.cgd.8b00958.s001
+10,formula_surface,B9C5Cr4H3 CuGa,H adsorption,235486,,Complex Crystal Chemistry of Yb6(CuGa)50 and Yb6(CuGa)51 Grown at Different Synthetic Conditions,10.1021/acs.cgd.8b00958.s001
+10,formula_surface,B9C5Cr4H3 CuGa,HER,66881,,Complex Crystal Chemistry of Yb6(CuGa)50 and Yb6(CuGa)51 Grown at Different Synthetic Conditions,10.1021/acs.cgd.8b00958.s001
+10,formula_surface,B9C5Cr4H3 CuGa,Delta G_H,110127,,Complex Crystal Chemistry of Yb6(CuGa)50 and Yb6(CuGa)51 Grown at Different Synthetic Conditions,10.1021/acs.cgd.8b00958.s001

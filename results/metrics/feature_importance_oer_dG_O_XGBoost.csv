@@ -1,0 +1,61 @@
+feature,importance
+matminer_MagpieData maximum CovalentRadius,0.319889
+matminer_MagpieData range NValence,0.21784343
+matminer_MagpieData minimum MendeleevNumber,0.07844331
+matminer_MagpieData range MendeleevNumber,0.042364303
+matminer_MagpieData mean CovalentRadius,0.038457938
+matminer_MagpieData range AtomicWeight,0.037487697
+matminer_MagpieData maximum SpaceGroupNumber,0.037188847
+matminer_MagpieData maximum MendeleevNumber,0.028565042
+matminer_MagpieData avg_dev AtomicWeight,0.022637745
+radius_mean,0.022520218
+matminer_MagpieData avg_dev CovalentRadius,0.021060245
+matminer_MagpieData mean MendeleevNumber,0.021006351
+matminer_MagpieData mean MeltingT,0.020423282
+matminer_MagpieData mean SpaceGroupNumber,0.018587476
+Z_std,0.018314023
+matminer_MagpieData avg_dev MendeleevNumber,0.011264784
+radius_max,0.008797645
+matminer_MagpieData minimum SpaceGroupNumber,0.00842771
+matminer_MagpieData avg_dev SpaceGroupNumber,0.0065684686
+radius_std,0.004954393
+matminer_MagpieData avg_dev MeltingT,0.0039646043
+matminer_MagpieData avg_dev Column,0.0035213442
+matminer_MagpieData range CovalentRadius,0.0033460325
+matminer_MagpieData maximum NdUnfilled,0.0029593203
+matminer_MagpieData range SpaceGroupNumber,0.0014067214
+matminer_MagpieData range MeltingT,0.0
+matminer_MagpieData minimum MeltingT,0.0
+matminer_MagpieData mode MeltingT,0.0
+matminer_MagpieData range GSvolume_pa,0.0
+matminer_MagpieData maximum GSvolume_pa,0.0
+matminer_MagpieData mode CovalentRadius,0.0
+matminer_MagpieData minimum AtomicWeight,0.0
+Z_max,0.0
+matminer_MagpieData maximum Number,0.0
+matminer_MagpieData range Number,0.0
+total_atoms,0.0
+matminer_MagpieData minimum CovalentRadius,0.0
+matminer_MagpieData maximum AtomicWeight,0.0
+matminer_MagpieData range NfValence,0.0
+radius_min,0.0
+matminer_MagpieData minimum Column,0.0
+matminer_MagpieData maximum NfValence,0.0
+matminer_MagpieData maximum NValence,0.0
+matminer_MagpieData range Column,0.0
+d_max,0.0
+matminer_MagpieData range NdValence,0.0
+matminer_MagpieData range NdUnfilled,0.0
+matminer_MagpieData maximum NdValence,0.0
+group_min,0.0
+group_std,0.0
+Z_min,0.0
+matminer_MagpieData minimum Number,0.0
+matminer_MagpieData mean AtomicWeight,0.0
+matminer_MagpieData range NUnfilled,0.0
+matminer_MagpieData maximum NUnfilled,0.0
+group_mean,0.0
+matminer_MagpieData mean Column,0.0
+valence_max,0.0
+matminer_MagpieData mode Column,0.0
+valence_min,0.0

@@ -1,0 +1,20 @@
+{
+  "formula_pretty": "B2Mo",
+  "formula_anonymous": "AB2",
+  "chemsys": "B-Mo",
+  "symmetry": {
+    "crystal_system": "Trigonal",
+    "symbol": "R-3m",
+    "hall": null,
+    "number": 166,
+    "point_group": "-3m",
+    "symprec": 0.1,
+    "angle_tolerance": 5.0,
+    "version": "2.5.0"
+  },
+  "material_id": "mp-2331",
+  "formation_energy_per_atom": -0.44864111666666806,
+  "energy_above_hull": 0.0,
+  "is_stable": true,
+  "band_gap": 0.0
+}

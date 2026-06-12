@@ -1,0 +1,14 @@
+{
+  "rank": 6,
+  "candidate_id": "BInMoSn|Re3Ta|111|{\"H\": \"hollow|A_A_A|FCC\"}",
+  "formula": "BInMoSn",
+  "surface": "Re3Ta",
+  "facet": "111",
+  "site": "hollow|A_A_A|FCC",
+  "pred_dg_h": -0.0925693940658854,
+  "case_dir": "dft_runs_mp/rank_06_BInMoSn_Re3Ta",
+  "structure_source": "materials_project_structures/rank_06/POSCAR",
+  "surface_formula_used_for_prototype": "Re3Ta",
+  "clean_atoms": 48,
+  "h_ads_atoms": 49
+}

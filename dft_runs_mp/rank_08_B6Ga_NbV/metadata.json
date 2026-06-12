@@ -1,0 +1,14 @@
+{
+  "rank": 8,
+  "candidate_id": "B6Ga|NbV|101|{\"H\": \"hollow|A_B_B|HCP\"}",
+  "formula": "B6Ga",
+  "surface": "NbV",
+  "facet": "101",
+  "site": "hollow|A_B_B|HCP",
+  "pred_dg_h": -0.0985367971590851,
+  "case_dir": "dft_runs_mp/rank_08_B6Ga_NbV",
+  "structure_source": "materials_project_structures/rank_08/POSCAR",
+  "surface_formula_used_for_prototype": "NbV",
+  "clean_atoms": 40,
+  "h_ads_atoms": 41
+}

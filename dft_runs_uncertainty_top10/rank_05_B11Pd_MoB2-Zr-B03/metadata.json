@@ -1,0 +1,14 @@
+{
+  "rank": 5,
+  "candidate_id": "B11Pd|MoB2-Zr-B03|001|{\"H\": \"site6\"}",
+  "formula": "B11Pd",
+  "surface": "MoB2-Zr-B03",
+  "facet": "001",
+  "site": "site6",
+  "pred_dg_h": null,
+  "case_dir": "/home/musineko/ML_project_screening/dft_runs_uncertainty_top10/rank_05_B11Pd_MoB2-Zr-B03",
+  "structure_source": "prototype_from_surface_composition",
+  "surface_formula_used_for_prototype": "MoB2Zr",
+  "clean_atoms": 144,
+  "h_ads_atoms": 145
+}

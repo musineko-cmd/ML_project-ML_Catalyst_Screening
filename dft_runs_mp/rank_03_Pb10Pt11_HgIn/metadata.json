@@ -1,0 +1,14 @@
+{
+  "rank": 3,
+  "candidate_id": "Pb10Pt11|HgIn|101|{\"H\": \"top-tilt|B\"}",
+  "formula": "Pb10Pt11",
+  "surface": "HgIn",
+  "facet": "101",
+  "site": "top-tilt|B",
+  "pred_dg_h": 0.0589336830553726,
+  "case_dir": "dft_runs_mp/rank_03_Pb10Pt11_HgIn",
+  "structure_source": "materials_project_structures/rank_03/POSCAR",
+  "surface_formula_used_for_prototype": "HgIn",
+  "clean_atoms": 32,
+  "h_ads_atoms": 33
+}

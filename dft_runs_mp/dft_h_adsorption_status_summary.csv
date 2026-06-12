@@ -1,0 +1,11 @@
+rank,candidate_id,ml_pred_dG_H_eV,clean_converged,h_ads_converged,h2_converged,clean_finished,h_ads_finished,h2_finished,clean_last_ionic_step,h_ads_last_ionic_step,E_clean_eV,E_H_ads_eV,E_H2_eV,dE_H_eV,dG_H_eV,reliable_dG_H,status
+1,"C8Ga9|MoB2-Ru-B01|001|{""H"": ""site3""}",0.0084440922141618,True,True,True,True,True,True,27.0,65.0,-777.74240565,-782.00144436,-6.75884249,-0.879617465000027,-0.639617465000027,True,complete_converged
+2,"BPdZn2|MoB2-Fe-B01|001|{""H"": ""site5""}",0.0206674796300456,False,False,True,False,False,True,,,,,-6.75884249,,,False,not_available
+3,"Pb10Pt11|HgIn|101|{""H"": ""top-tilt|B""}",0.0589336830553726,True,False,True,True,True,True,159.0,200.0,-43.17387557,-46.76969726,-6.75884249,-0.216400445000001,0.023599554999998995,False,partial_or_unconverged
+4,"B10Zn7|Au3Ru|111|{""H"": ""hollow|A_A_B|HCP""}",-0.0600859044870559,True,True,True,True,True,True,48.0,68.0,-530.17793591,-533.7689602,-6.75884249,-0.21160304500006388,0.028396954999936108,True,complete_converged
+5,"B5Mo2|In3Zn|111|{""H"": ""hollow|A_A_A|FCC""}",-0.0803832050368834,False,False,True,False,False,True,93.0,91.0,-230.07681384,-232.87324691,-6.75884249,0.5829881749999939,0.8229881749999939,False,partial_or_unconverged
+6,"BInMoSn|Re3Ta|111|{""H"": ""hollow|A_A_A|FCC""}",-0.0925693940658854,True,True,True,True,True,True,28.0,42.0,-556.17046534,-560.19819243,-6.75884249,-0.6483058449999848,-0.4083058449999848,True,complete_converged
+7,"B17Mo7|MoB2-Nb-B00|001|{""H"": ""site4""}",-0.0977526068609765,False,False,True,False,False,True,,,,,-6.75884249,,,False,not_available
+8,"B6Ga|NbV|101|{""H"": ""hollow|A_B_B|HCP""}",-0.0985367971590851,False,False,True,False,False,True,,,,,-6.75884249,,,False,not_available
+9,"BCoReZn|PtSn|101|{""H"": ""top|A""}",0.098723174277221,False,False,True,False,False,True,,,,,-6.75884249,,,False,not_available
+10,"B9C5Cr4H3|CuGa|101|{""H"": ""bridge|A_A|B""}",-0.1065433768817292,False,False,True,False,False,True,,,,,-6.75884249,,,False,not_available

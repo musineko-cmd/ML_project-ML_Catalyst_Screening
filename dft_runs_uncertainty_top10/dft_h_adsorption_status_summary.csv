@@ -1,0 +1,11 @@
+rank,candidate_id,ml_pred_dG_H_eV,clean_converged,h_ads_converged,h2_converged,clean_finished,h_ads_finished,h2_finished,clean_last_ionic_step,h_ads_last_ionic_step,E_clean_eV,E_H_ads_eV,E_H2_eV,dE_H_eV,dG_H_eV,reliable_dG_H,status
+1,"B10Zn7|Au3Ru|111|{""H"": ""hollow|A_A_B|HCP""}",0.0248562063457442,True,True,True,True,True,True,9.0,55.0,-568.54101214,-571.89779508,-6.75884249,0.02263830499998365,0.26263830499998364,True,complete_converged
+2,"B9CrGaPd|MoB2-Re-B01|001|{""H"": ""site6""}",-0.0212623106699936,False,False,True,False,False,True,21.0,,-31749.01279201,,-6.75884249,,,False,partial_or_unconverged
+3,"Cu2GaMo|Pd3Zr|111|{""H"": ""top|B""}",0.0958391116805094,False,False,True,False,False,True,,,,,-6.75884249,,,False,not_available
+4,"B15PdRe|MoB2-Ru-B02|001|{""H"": ""site6""}",0.0419759068700114,False,False,True,False,False,True,,,,,-6.75884249,,,False,not_available
+5,"B11Pd|MoB2-Zr-B03|001|{""H"": ""site6""}",0.048037073140801,False,False,True,False,False,True,,,,,-6.75884249,,,False,not_available
+6,"B5Mo2|In3Zn|111|{""H"": ""hollow|A_A_A|FCC""}",0.029497554832853,False,False,True,False,False,True,,,,,-6.75884249,,,False,not_available
+7,"BPd2|Ru3Bi|111|{""H"": ""hollow|A_A_A|FCC""}",-0.1668193997161267,False,False,True,False,False,True,,,,,-6.75884249,,,False,not_available
+8,"B7HPd|Au3Ru|111|{""H"": ""hollow|A_A_A|FCC""}",0.0238231627959472,False,False,True,False,False,True,,,,,-6.75884249,,,False,not_available
+9,"Ga4Pt6Ti5Y3|MoRe|101|{""H"": ""hollow|A_A_B|FCC""}",-0.117207345695683,False,False,True,False,False,True,,,,,-6.75884249,,,False,not_available
+10,"B2GaY|MoB2-W-B02|001|{""H"": ""site6""}",-0.1016694104397771,False,False,True,False,False,True,,,,,-6.75884249,,,False,not_available

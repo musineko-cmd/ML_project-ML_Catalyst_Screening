@@ -1,0 +1,74 @@
+# Python/runtime artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Local/editor files
+.DS_Store
+*.swp
+*.swo
+core
+core.*
+
+# Root-level scheduler stdout can become very large for failed/stuck DFT jobs.
+# DFT run directories still keep lightweight OSZICAR and summary CSV files.
+/*.o[0-9]*
+
+# LaTeX build artifacts; keep report source/PDF
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
+report/*.synctex.gz
+
+# VASP/DFT calculation inputs and heavy/restricted outputs.
+# Keep lightweight evidence files such as OSZICAR, scheduler stdout (*.oJOBID),
+# dft_case_metadata.csv, and dft_h_adsorption_*.csv summaries.
+dft_runs*/**/POTCAR
+dft_runs*/**/POTCAR.*
+dft_runs*/**/WAVECAR
+dft_runs*/**/CHGCAR
+dft_runs*/**/CHG
+dft_runs*/**/AECCAR*
+dft_runs*/**/LOCPOT
+dft_runs*/**/OUTCAR
+dft_runs*/**/vasprun.xml
+dft_runs*/**/*.xml
+dft_runs*/**/XDATCAR
+dft_runs*/**/EIGENVAL
+dft_runs*/**/DOSCAR
+dft_runs*/**/PROCAR
+dft_runs*/**/IBZKPT
+dft_runs*/**/PCDAT
+dft_runs*/**/REPORT
+dft_runs*/**/core
+dft_runs*/**/core.*
+dft_runs*/**/POSCAR
+dft_runs*/**/CONTCAR
+dft_runs*/**/INCAR
+dft_runs*/**/KPOINTS
+dft_runs*/**/submit_vasp.sh
+dft_runs*/submit_all.sh
+scripts/submit_uncertainty_top10_dft.sh
+
+# Root-level VASP outputs if any are accidentally produced there
+POTCAR
+WAVECAR
+CHGCAR
+CHG
+OUTCAR
+vasprun.xml
+XDATCAR
+EIGENVAL
+DOSCAR
+PROCAR
+IBZKPT
+PCDAT
+REPORT
