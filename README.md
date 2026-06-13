@@ -164,15 +164,6 @@ python src/dft_vasp.py summarize --outdir dft_runs_mp
 python src/dft_vasp.py summarize --outdir dft_runs_uncertainty_top10
 ```
 
-For feature-space visualization of generated candidates:
-
-```bash
-python src/plot_feature_pca.py
-```
-
-This writes `results/figures/her_feature_pca_generated_candidates.png` and
-`results/metrics/her_feature_pca_coordinates.csv`.
-
 ## DFT Validation Artifacts
 
 The repository intentionally excludes VASP calculation inputs and heavy/restricted
